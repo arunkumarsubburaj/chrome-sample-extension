@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Hello World Extension",
+    "name": "Hello World Extension updated",
     "version": "1.0.0",
     "description": "A simple Hello World browser extension",
     "action": {
